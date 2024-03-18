@@ -2,7 +2,7 @@
     [패치 노트]
                 
             v1.0.0 - 24.02.15
-                   -Excel To Json Editor 기능 추가
+                   - Excel To Json Editor 제작
 
 ------------------------------------------------------------------------------------
 ![image](https://github.com/kastro723/ExcelToJsonEditor/assets/55536937/c7a6be6b-3673-4a8a-b66f-d60d46838d8e)
