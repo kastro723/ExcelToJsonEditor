@@ -25,5 +25,5 @@
     
           2. 'Save JSON As' 버튼을 통해 json파일 저장 경로 지정 후, 확인한다.
 
-
+          (저장 위치에 파일 중복 시 yes, no 선택) 
           (cs 파일은 Scripts-Data 폴더에 자동 저장된다.)
